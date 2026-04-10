@@ -35,3 +35,6 @@ Set your URLs using numbered environment variables:
 
 ## Monitoring
 Check ping results in Cloudflare Workers dashboard under "Workers" > "Your Worker" > "Logs"
+credit: Kustbots 
+
+Elevenyts ❤️ 
